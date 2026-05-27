@@ -1,4 +1,4 @@
-const BASE_URL = "http://192.168.56.10:8080/utiles";
+const BASE_URL = "http://192.168.56.12:8080/utiless";
 
 export async function fetchItems() {
     try {
